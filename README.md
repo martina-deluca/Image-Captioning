@@ -1,5 +1,4 @@
 # Image-Captioning
-Project assignment for Deep Learning.
 
 The primary objective of this project is to create an image captioning program based on the Flickr datasets. The implementation uses Flickr8k and Flickr30k datasets, the Inception architecture for image feature extraction, GloVe word embedding and a RNN for the caption generation based on the provided information.
 
